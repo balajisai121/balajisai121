@@ -3,13 +3,13 @@
 
 👀 I’m interested in ...
 - Supply Chain & Logistics Analytics – Creating dashboards, tracking transport orders, and performing ABC analysis using Power BI.
-- Predictive Analytics & Forecasting – Kaggle projects like NCAA Tournament Predictions & Rohlik Orders Forecasting Challenge.
+- Predictive Analytics & Forecasting –  Orders Forecasting Challenge.
 - Process Improvement & Six Sigma – Learning Lean Six Sigma for efficiency optimization.
 -   🌱 I’m currently learning ...
 - Lean Six Sigma to optimize processes in industrial applications.
 -  💞️ I’m looking to collaborate on ...
 - Machine learning applications in industrial systems (forecasting, clustering, optimization).
-Rohlik Orders Forecasting: Built LightGBM, CatBoost, XGBoost models for predicting customer orders.
+ Orders Forecasting: Built LightGBM, CatBoost, XGBoost models for predicting customer orders.
 Logistics & Supply Chain Dashboards: Tracking inbound/outbound orders and lead time using Power BI.
 
 - ⚡ Fun fact: ...
