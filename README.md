@@ -1,4 +1,4 @@
-👋 Hi, I’m @balajisai121
+👋 Hi, I’m Balaji sai Tolapu (@balajisai121)
 🎓 Master's Student at Rutgers University | Industrial & Systems Engineering
 - 👀 I’m interested in ...
 - Supply Chain & Logistics Analytics – Creating dashboards, tracking transport orders, and performing ABC analysis using Power BI.
